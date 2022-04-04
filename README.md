@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Vladimir Martínez López</h1>
 <h3 align="center">Un estudiante interesado en la programación</h3>
+![sm](https://user-images.githubusercontent.com/63998020/161642614-7c86af4c-93ca-4541-bd80-3abf3fdd4276.png)
 
 - 📝 Algunas actividades desarrolladas [https: //vladimirmartinez601.blogspot.com/](https://vladimirmartinez601.blogspot.com/)
 
